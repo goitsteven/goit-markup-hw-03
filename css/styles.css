@@ -1,0 +1,236 @@
+.body {
+  font-family: "Roboto";
+  width: 1200px;
+}
+
+.header {
+  width: 1200px;
+  background: #ffffff;
+}
+
+.link-web {
+  text-decoration: none;
+  color: #2196f3;
+  font-size: 26px;
+  font-family: "releway";
+  font-style: normal;
+}
+
+.ul {
+  list-style: none;
+}
+
+.stud-tex {
+  color: #0e1011;
+  text-decoration: none;
+  font-size: 14px;
+  font-family: "releway";
+}
+
+.stud-tex:hover {
+  color: #2196f3;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.link:hover {
+  font-style: 14px;
+  display: flex;
+  text-decoration: non;
+  color: #19191a;
+  cursor: pointer;
+}
+
+.email:hover {
+  font-size: 14px;
+  color: #2196f3;
+  cursor: pointer;
+}
+
+.email {
+  font-size: 14px;
+  color: black;
+  cursor: pointer;
+}
+
+.contact:hover {
+  font-size: 14px;
+  color: #2196f3;
+  cursor: pointer;
+}
+
+.contact {
+  font-size: 14px;
+  cursor: pointer;
+  color: black;
+}
+
+.container-prin {
+  width: 1200px;
+  background: #2f303a;
+  display: flex;
+}
+
+.title {
+  display: flex;
+  font-size: 44px;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: "Roboto";
+  justify-content: center;
+  justify-items: center;
+}
+
+.button:hover {
+  background: #2196f3;
+  color: #FFFFFF;
+}
+
+.button {
+  display: flex; 
+
+   
+  justify-content: center;
+  font-size: 16px;
+
+  cursor: pointer;
+}
+
+.title-a {
+  display: flex;
+  font-size: 14px;
+  color: #19191a;
+  font-family: "Roboto";
+}
+
+.text-a {
+  font-size: 14px;
+  color: #757575;
+}
+.title-b {
+  display: flex;
+  font-size: 14px;
+  color: #19191a;
+  font-family: "Roboto";
+}
+
+.text-b {
+  font-size: 14px;
+  color: #757575;
+}
+.title-c {
+  display: flex;
+  font-size: 14px;
+  color: #19191a;
+  font-family: "Roboto";
+}
+
+.text-c {
+  font-size: 14px;
+  color: #757575;
+}
+.title-d {
+  display: flex;
+  font-size: 14px;
+  color: #19191a;
+  font-family: "Roboto";
+}
+
+.text-d {
+  font-size: 14px;
+  color: #757575;
+}
+
+.title2 {
+  font-size: 36px;
+  display: flex;
+}
+
+.container-equipo {
+  background: #f5f4fa;
+}
+
+.title3 {
+  font-size: 36px;
+  color: #212121;
+}
+
+.container-ftr {
+  background: #2f303a;
+}
+
+.link2 {
+  font-size: 14px;
+  font-family: "Roboto";
+  font-style: normal;
+  color: #ffffff;
+}
+
+.link3 {
+  font-size: 14px;
+  font-family: "Roboto";
+  font-style: normal;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.buttons-conatiner {
+  display: flex;
+}
+
+.button1 {
+  cursor: pointer;
+
+  background: #f5f4fa;
+}
+
+.button1:hover {
+  background: #2196f3;
+  color: #ffffff;
+}
+
+.button-a {
+  cursor: pointer;
+
+  background: #f5f4fa;
+}
+
+.button-a:hover {
+  background: #2196f3;
+  color: #ffffff;
+}
+.button-b  {
+  
+
+cursor: pointer;
+
+background: #F5F4FA;
+
+}
+.button-b:hover {
+  background: #2196f3;
+  color: #FFFFFF;
+}
+.button-c {
+  
+
+cursor: pointer;
+
+background: #F5F4FA;
+
+}
+.button-c:hover {
+  background: #2196f3;
+  color: #FFFFFF;
+}
+.button-d  {
+  
+
+cursor: pointer;
+
+background: #F5F4FA;
+
+}
+.button-d:hover {
+  background: #2196f3;
+  color: #FFFFFF;
+}
